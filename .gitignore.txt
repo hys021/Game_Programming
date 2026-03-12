@@ -1,0 +1,13 @@
+# Visual Studio 임시 파일
+.vs/
+*.user
+*.suo
+*.db
+*.opendb
+
+# 빌드 결과물 (컴파일된 파일들)
+x64/
+Debug/
+Release/
+bin/
+obj/
