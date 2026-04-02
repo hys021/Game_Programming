@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Game_Programming\\Game_Programming\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B69BB0D8-74D6-4664-8678-C2E271666002}|Lecture04-HW\\Lecture04-HW.vcxproj|C:\\Game_Programming\\Game_Programming\\Lecture04-HW\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B69BB0D8-74D6-4664-8678-C2E271666002}|Lecture04-HW\\Lecture04-HW.vcxproj|solutionrelative:Lecture04-HW\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{54B9416A-967C-4620-A59D-776E4B6499BC}|Lecture02-GameLoop\\Lecture02-GameLoop.vcxproj|C:\\Game_Programming\\Game_Programming\\Lecture02-GameLoop\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{54B9416A-967C-4620-A59D-776E4B6499BC}|Lecture02-GameLoop\\Lecture02-GameLoop.vcxproj|solutionrelative:Lecture02-GameLoop\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Game_Programming\\Game_Programming\\Lecture02-GameLoop\\main.cpp",
               "RelativeDocumentMoniker": "Lecture02-GameLoop\\main.cpp",
               "ToolTip": "C:\\Game_Programming\\Game_Programming\\Lecture02-GameLoop\\main.cpp",
               "RelativeToolTip": "Lecture02-GameLoop\\main.cpp",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBcAAAAsAAAA",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAiwKIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-19T08:36:12.295Z",
+              "WhenOpened": "2026-04-02T09:26:09.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Game_Programming\\Game_Programming\\Lecture04-HW\\main.cpp",
+              "RelativeDocumentMoniker": "Lecture04-HW\\main.cpp",
+              "ToolTip": "C:\\Game_Programming\\Game_Programming\\Lecture04-HW\\main.cpp",
+              "RelativeToolTip": "Lecture04-HW\\main.cpp",
+              "ViewState": "AQIAAHwAAAAAAAAAAAApwJsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-02T08:35:57.399Z",
               "EditorCaption": ""
             }
           ]
